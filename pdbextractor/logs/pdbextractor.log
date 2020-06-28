@@ -1,0 +1,16 @@
+2020-05-28 09:58:05,381 main.py [19] INFO: START PROCESSING...
+2020-05-28 09:58:05,747 PDBMamager.py [49] ERROR: No module named 'six'
+2020-05-28 09:58:05,749 PDBMamager.py [49] ERROR: No module named 'six'
+2020-05-28 09:58:05,749 main.py [31] INFO: END - 0:00:00.368177
+2020-05-28 10:18:32,002 main.py [19] INFO: START PROCESSING...
+2020-05-28 10:18:32,031 PDBMamager.py [49] ERROR: No module named 'six'
+2020-05-28 10:18:32,033 PDBMamager.py [49] ERROR: No module named 'six'
+2020-05-28 10:18:32,033 main.py [31] INFO: END - 0:00:00.031729
+2020-05-28 10:27:40,848 main.py [19] INFO: START PROCESSING...
+2020-05-28 10:27:44,425 gu.py [248] ERROR: [Errno 2] No such file or directory: '/home/baitaluk/Projects/pdbextractor/data/org.yaml'
+2020-05-28 10:27:47,570 gu.py [248] ERROR: [Errno 2] No such file or directory: '/home/baitaluk/Projects/pdbextractor/data/org.yaml'
+2020-05-28 10:27:49,801 gu.py [248] ERROR: [Errno 2] No such file or directory: '/home/baitaluk/Projects/pdbextractor/data/org.yaml'
+2020-05-28 10:27:52,046 gu.py [248] ERROR: [Errno 2] No such file or directory: '/home/baitaluk/Projects/pdbextractor/data/org.yaml'
+2020-05-28 10:27:55,561 main.py [31] INFO: END - 0:00:14.712511
+2020-05-28 10:28:04,507 main.py [19] INFO: START PROCESSING...
+2020-05-28 10:29:00,016 main.py [31] INFO: END - 0:00:55.508227
