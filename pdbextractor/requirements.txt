@@ -6,4 +6,4 @@ oyaml==0.9
 pip==20.1.1
 requests==2.23.0
 setuptools==46.4.0
-urllib3==1.25.9
+urllib3==1.26.5
