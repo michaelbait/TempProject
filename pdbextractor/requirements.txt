@@ -5,5 +5,5 @@ idna==2.9
 oyaml==0.9
 pip==20.1.1
 requests==2.23.0
-setuptools==46.4.0
+setuptools==65.5.1
 urllib3==1.25.9
